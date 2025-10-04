@@ -1,0 +1,22 @@
+{
+  "name": "escrow-deposit-script",
+  "version": "1.0.0",
+  "description": "Solana Escrow Deposit Script for Task 1",
+  "main": "deposit.ts",
+  "scripts": {
+    "deposit": "ts-node deposit.ts",
+    "test": "ts-node deposit.ts"
+  },
+  "keywords": ["solana", "escrow", "spl-token"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "@solana/spl-token": "^0.4.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2",
+    "ts-node": "^10.9.2"
+  }
+}
