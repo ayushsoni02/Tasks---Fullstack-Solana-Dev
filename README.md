@@ -324,13 +324,4 @@ This project is created for educational and demonstration purposes as part of an
 
 ---
 
-## 👤 Author
-
-**Ayush Soni**
-
-- GitHub: [@ayushsoni02](https://github.com/ayushsoni02)
-- Repository: [Tasks - Fullstack Solana Dev](https://github.com/ayushsoni02/Tasks---Fullstack-Solana-Dev)
-
----
-
 **Note:** All projects are configured for Solana Devnet. Test thoroughly before adapting for production use on Mainnet.
