@@ -50,7 +50,8 @@ export default function StakeAccountsList({ refreshTrigger }: { refreshTrigger: 
 
       const program = new anchor.Program(IDL as any, provider);
 
-      const allStakes = await program.account.stake.all([
+      // Type assertion to bypass TypeScript checking for account namespace
+      const allStakes = await (program.account as any).stake.all([
         {
           memcmp: {
             offset: 8, // Discriminator is 8 bytes

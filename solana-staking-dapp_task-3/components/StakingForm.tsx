@@ -133,7 +133,8 @@ export default function StakingForm({ onStakeSuccess }: { onStakeSuccess: () => 
       }
 
       // Call stakeToken instruction
-      const tx = await program.methods
+      // Type assertion to bypass TypeScript checking for methods namespace
+      const tx = await (program.methods as any)
         .stakeToken(stakeId, amountLamports, lockDuration)
         .accounts({
           user: publicKey,
