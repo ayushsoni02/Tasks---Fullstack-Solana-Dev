@@ -12,6 +12,10 @@ This repository contains three comprehensive tasks demonstrating full-stack deve
 
 ---
 
+## Note:
+- Each task was originally developed in its own dedicated repository for clarity and separation of concerns.
+- Once completed and tested, I consolidated them here into a single repo for unified submission and review.
+
 ##  Overview
 
 This repository showcases three distinct projects built as part of a Fullstack Solana Developer internship assignment:
