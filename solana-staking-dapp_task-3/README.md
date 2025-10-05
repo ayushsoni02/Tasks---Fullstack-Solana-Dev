@@ -2,6 +2,10 @@
 
 A modern, user-friendly decentralized application (DApp) for staking SPL tokens on the Solana blockchain. Built with Next.js, TypeScript, and Anchor framework.
 
+## 🚀 Live Demo
+
+**Deployed Application**: [https://tasks-fullstack-solana-dev.vercel.app/](tasks-fullstack-solana-dev.vercel.app)
+
 ## Features
 
 - **Wallet Integration** - Connect with popular Solana wallets (Phantom, Solflare, etc.)
