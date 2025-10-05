@@ -4,7 +4,7 @@ A modern, user-friendly decentralized application (DApp) for staking SPL tokens 
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [https://tasks-fullstack-solana-dev.vercel.app/](tasks-fullstack-solana-dev.vercel.app)
+**Deployed Application**: [https://tasks-fullstack-solana-dev.vercel.app/](https://tasks-fullstack-solana-dev.vercel.app/)
 
 ## Features
 
