@@ -38,3 +38,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Solana wallet keypairs (NEVER commit private keys!)
+keypair.json
+*.json.key
+wallet.json
